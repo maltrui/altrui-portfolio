@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    background-color: #ffeeee;
+}
+nav{
+    display: flex;
+    align-content: center;
+}
+.projectCard{
+    list-style: none;
+}
+
+
+.projectDetails{
+    list-style: none;
+}
