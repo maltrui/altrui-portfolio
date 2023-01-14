@@ -25,8 +25,6 @@ export default function ContactPage(){
             <p className='contactP'>
                 My Resume: <a href='https://drive.google.com/file/d/1ez3Sz776zZQeFdYQGwqukT7MkOJi_BKw/view?usp=sharing' target="_blank"><button>LinkedIn</button></a>
             </p>
-            
-            
         </>
     )
 }
