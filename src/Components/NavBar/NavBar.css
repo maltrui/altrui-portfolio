@@ -1,4 +1,16 @@
 nav{
-    display: flex;
-    align-content: center;
+    background-color: #555;
+    opacity: 0.75;
+    max-width: 40%;
+    color: white;
+    margin-bottom: 5px;
+    border: 5px solid grey;
+}
+.navOption{
+    color: white;
+    background-color: rgb(255,255,255, .3);
+    border: 1px solid grey;
+}
+.navOption:visited{
+    color: white;
 }

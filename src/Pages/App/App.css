@@ -1,21 +1,33 @@
+
 *{
     box-sizing: border-box;
+    padding: 3px;
+    font: Verdana;
+    margin-left: auto;
+    margin-right: auto;
 }
 body{
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
-    background-color: #ffeeee;
+    background-color:#D9C4AD;
 }
 nav{
-    display: flex;
-    align-content: center;
+    text-align: center;
 }
 .projectCard{
     list-style: none;
 }
-
-
 .projectDetails{
     list-style: none;
+}
+.header{
+    background-image: url("../../Imgs/header.jpeg"); 
+    width: auto;
+    height: 300px;
+    background-repeat: no-repeat;
+    border: 5px solid white;
+}
+img{
+    border: 5px solid #555;
+    background:rgba(67, 68, 71, 0.9);
+    margin-left: auto;
+    margin-right: auto;
 }

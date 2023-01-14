@@ -18,12 +18,23 @@ export default function ProjectDetails({projects}){
     return(
         <>
             <ul className="projectDetails">
-                <li>{selectedProject.name}</li>
-                <li>{selectedProject.about}</li>
-                <li>{selectedProject.details}</li>
+                <div className='details'> 
+                    <li>{selectedProject.name}</li>
+                </div>
+                <div className='details'>
+                    <li>{selectedProject.about}</li>
+                </div>
+                <div className='details'>
+                    <li>{selectedProject.details}</li>
+                </div>
+
                 {selectedProject.imgs.map(img => <li key={img}><img src={img}></img></li>)}
+                <div className='details'>
                 {selectedProject.url !== '' ? <li>{<a href={`${selectedProject.url}`} target="_blank">Check out the Project!</a>}</li> : null }
                 <li><a href={`${selectedProject.gitHub}`} target="_blank">See the Code!</a></li>
+                </div>
+                
+
             </ul>
         </>
     )

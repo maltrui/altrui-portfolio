@@ -1,0 +1,14 @@
+
+.aboutMe{
+    background:rgba(67, 68, 71, 0.9);
+    border: 5px solid white;
+    width: 30%;
+    text-align: center;
+    margin-bottom: 3px;
+}
+.aboutMeP{
+    background:rgba(67, 68, 71, 0.9);
+    border: 5px solid white;
+    text-align: center;
+    margin-bottom: 3px;
+}
