@@ -23,7 +23,7 @@ export default function ContactPage(){
                 My LinkedIn: <a href='https://www.linkedin.com/in/michael-altrui' target="_blank"><button>LinkedIn</button></a>
             </p>
             <p className='contactP'>
-                My Resume: <a href='https://drive.google.com/file/d/1ez3Sz776zZQeFdYQGwqukT7MkOJi_BKw/view?usp=sharing' target="_blank"><button>LinkedIn</button></a>
+                My Resume: <a href='https://drive.google.com/file/d/1ez3Sz776zZQeFdYQGwqukT7MkOJi_BKw/view?usp=sharing' target="_blank"><button>Resume</button></a>
             </p>
         </>
     )
