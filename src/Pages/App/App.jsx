@@ -56,6 +56,7 @@ function App() {
  
       <Routes>
         <Route path='/' element={<AboutMePage />}/>
+        <Route path='/altrui-portfolio' element={<AboutMePage />}/>
         <Route path='/About' element={<AboutMePage />}/>
         <Route path='/Projects' element={<ProjectsPage projects={projects}/>}/>
         <Route path='/Projects/Details/:projectName' element={<ProjectDetails projects={projects}/>}/>
