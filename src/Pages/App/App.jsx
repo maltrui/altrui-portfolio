@@ -18,7 +18,7 @@ import { useState } from 'react';
 function App() {
   const [projects, setProjects] = useState([{
     name: 'RatingDogs',
-    about: 'Skills used: Node, Express, MongoDB (Full-stack CRUD Application)',
+    about: 'Node, Express, MongoDB (Full-stack CRUD Application)',
     details: 'This application is focused on the ability to create posts and comments about cute Dog pictures, gifs, and videos. The app has OAuth authentication, along with using a 3rd Party API in order to access the Dogs.',
     imgs: [proj2Home, proj2Posts],
     url: 'https://cryptic-depths-80147.herokuapp.com/',
@@ -34,7 +34,7 @@ function App() {
 },
 {
   name: 'Checkers',
-  about: 'Skills used: JavaScript, CSS, and HTML.',
+  about: 'JavaScript, CSS, and HTML',
   details: 'This application is a game browser-based JavaScript game of Checkers',
   imgs: [proj1App],
   url: 'https://maltrui.github.io/project1/',
