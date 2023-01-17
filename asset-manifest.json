@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/altrui-portfolio/static/css/main.910a16e0.css",
+    "main.css": "/altrui-portfolio/static/css/main.3dd1e337.css",
     "main.js": "/altrui-portfolio/static/js/main.2d4ae421.js",
     "static/media/Project3Products.png": "/altrui-portfolio/static/media/Project3Products.2e494a91fef3ac9808dd.png",
     "static/media/Project2Posts.png": "/altrui-portfolio/static/media/Project2Posts.38fae848664d6fb1a39f.png",
@@ -12,11 +12,11 @@
     "static/media/Project1Application.png": "/altrui-portfolio/static/media/Project1Application.1420ac5e93f2a0203f31.png",
     "static/media/Project3Cart.png": "/altrui-portfolio/static/media/Project3Cart.690b2aa57394b3ebf0ba.png",
     "index.html": "/altrui-portfolio/index.html",
-    "main.910a16e0.css.map": "/altrui-portfolio/static/css/main.910a16e0.css.map",
+    "main.3dd1e337.css.map": "/altrui-portfolio/static/css/main.3dd1e337.css.map",
     "main.2d4ae421.js.map": "/altrui-portfolio/static/js/main.2d4ae421.js.map"
   },
   "entrypoints": [
-    "static/css/main.910a16e0.css",
+    "static/css/main.3dd1e337.css",
     "static/js/main.2d4ae421.js"
   ]
 }
