@@ -2,7 +2,7 @@
 *{
     box-sizing: border-box;
     padding: 3px;
-    font: Verdana;
+    
     margin-left: auto;
     margin-right: auto;
 }
@@ -21,9 +21,10 @@ nav{
 .header{
     background-image: url("../../Imgs/header.jpeg"); 
     width: auto;
-    height: 20%;
-    background-repeat: no-repeat;
+    height: 25%;
+    z-index:-1;
     border: 5px solid white;
+    background-repeat: no-repeat;
 }
 img{
     border: 5px solid #555;

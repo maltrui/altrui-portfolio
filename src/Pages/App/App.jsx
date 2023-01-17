@@ -52,6 +52,7 @@ function App() {
   return (
     <>
   <div className='header'>
+  </div>
     <NavBar />
  
       <Routes>
@@ -61,7 +62,7 @@ function App() {
         <Route path='/Projects/Details/:projectName' element={<ProjectDetails projects={projects}/>}/>
         <Route path='/Contact' element={<ContactPage />}/>
       </Routes>
-    </div>
+    
     </>
   );
 }
