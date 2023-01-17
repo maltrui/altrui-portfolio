@@ -19,7 +19,7 @@ function App() {
   const [projects, setProjects] = useState([{
     name: 'RatingDogs',
     about: 'Node, Express, MongoDB (Full-stack CRUD Application)',
-    details: 'This application is focused on the ability to create posts and comments about cute Dog pictures, gifs, and videos. The app has OAuth authentication, along with using a 3rd Party API in order to access the Dogs.',
+    details: 'This application is focused on the ability to create posts and comments about cute Dog pictures, gifs, and videos. The app has OAuth authentication, along with using a 3rd Party API in order to access the Dogs. Uses Bootstap for styling the NavBar',
     imgs: [proj2Home, proj2Posts],
     url: 'https://cryptic-depths-80147.herokuapp.com/',
     gitHub: 'https://github.com/maltrui/express-Project2-Dogs'
@@ -27,7 +27,7 @@ function App() {
 {
   name: 'Online-Shopping Application',
   about: 'MERN-stack Application',
-  details: 'This app is a basic online shopping application. It has Sign-In, Product Display, and a shopping cart functionality. This uses a third party API in order to get a product list. A special challenge, and learning point, to this project was the security of 3rd party APIs. An unknown individual was able to change the categorie names into giberish and add new categories that did not exist the day before this project was due. I was able to find a work around by manually getting the caetgories from the products and getting the unique instances of them.',
+  details: 'This app is a basic online shopping application. It has Sign-In, Product Display, and a shopping cart functionality. This uses a third party API in order to get a product list. A special challenge, and learning point, to this project was the security of 3rd party APIs. An unknown individual was able to change the categorie names into giberish and add new categories that did not exist the day before this project was due. This caused an issue with being able to display the product categories from the API, as the new categories were added and deleted. I was able to find a work around by manually getting the all of the caetgories from the existing products.',
   imgs: [proj3Products, proj3Cart],
   url: 'https://ancient-tundra-23286.herokuapp.com/',
   gitHub: 'https://github.com/maltrui/react-mern-stack'
@@ -52,7 +52,6 @@ function App() {
   return (
     <>
   <div className='header'>
-  </div>
     <NavBar />
  
       <Routes>
@@ -62,7 +61,7 @@ function App() {
         <Route path='/Projects/Details/:projectName' element={<ProjectDetails projects={projects}/>}/>
         <Route path='/Contact' element={<ContactPage />}/>
       </Routes>
-    
+    </div>
     </>
   );
 }

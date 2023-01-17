@@ -21,9 +21,6 @@ nav{
 .header{
     background-image: url("../../Imgs/header.jpeg"); 
     width: auto;
-    height: 25%;
-    z-index:-1;
-    border: 5px solid white;
     background-repeat: no-repeat;
 }
 img{
