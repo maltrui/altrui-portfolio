@@ -1,4 +1,4 @@
-import styles from './App.css';
+import './App.css';
 import AboutMePage from '../AboutMe/AboutMePage';
 import ProjectsPage from '../ProjectsPage/ProjectsPage';
 import ProjectDetails from '../ProjectDetails/ProjectDetailsPage';
