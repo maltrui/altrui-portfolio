@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/altrui-portfolio/static/css/main.0adf97a2.css",
-    "main.js": "/altrui-portfolio/static/js/main.2d4ae421.js",
+    "main.css": "/altrui-portfolio/static/css/main.35c44d11.css",
+    "main.js": "/altrui-portfolio/static/js/main.5f7e0cfa.js",
     "static/media/Project3Products.png": "/altrui-portfolio/static/media/Project3Products.2e494a91fef3ac9808dd.png",
     "static/media/Project2Posts.png": "/altrui-portfolio/static/media/Project2Posts.38fae848664d6fb1a39f.png",
     "static/media/MCAHeadshot.png": "/altrui-portfolio/static/media/MCAHeadshot.00eb97b4ff1ad4992f66.png",
@@ -12,11 +12,11 @@
     "static/media/Project1Application.png": "/altrui-portfolio/static/media/Project1Application.1420ac5e93f2a0203f31.png",
     "static/media/Project3Cart.png": "/altrui-portfolio/static/media/Project3Cart.690b2aa57394b3ebf0ba.png",
     "index.html": "/altrui-portfolio/index.html",
-    "main.0adf97a2.css.map": "/altrui-portfolio/static/css/main.0adf97a2.css.map",
-    "main.2d4ae421.js.map": "/altrui-portfolio/static/js/main.2d4ae421.js.map"
+    "main.35c44d11.css.map": "/altrui-portfolio/static/css/main.35c44d11.css.map",
+    "main.5f7e0cfa.js.map": "/altrui-portfolio/static/js/main.5f7e0cfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.0adf97a2.css",
-    "static/js/main.2d4ae421.js"
+    "static/css/main.35c44d11.css",
+    "static/js/main.5f7e0cfa.js"
   ]
 }
