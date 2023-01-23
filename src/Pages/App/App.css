@@ -19,7 +19,7 @@ nav{
 }
 .header{
     background: url("../../Imgs/header.jpeg");
-    background-size: 95% 25%; 
+    background-size: 95% 300px; 
     background-position: center top;
     background-repeat: no-repeat;
     width: auto;
