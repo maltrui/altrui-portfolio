@@ -27,8 +27,9 @@ export default function ProjectDetails({projects}){
                 <div className='details'>
                     <li>{selectedProject.details}</li>
                 </div>
-
+                <div className='details'>
                 {selectedProject.imgs.map(img => <div style={{display: "flex",justifyContent: "center",alignItems: "center"}}> <li key={img}><img src={img}></img></li></div>)}
+                </div>
                 <div className='details'>
                 {selectedProject.url !== '' ? <li>{<a href={`${selectedProject.url}`} target="_blank">Check out the Project!</a>}</li> : null }
                 <li><a href={`${selectedProject.gitHub}`} target="_blank">See the Code!</a></li>

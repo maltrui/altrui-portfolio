@@ -18,12 +18,11 @@ nav{
     list-style: none;
 }
 .header{
-    background-image: url("../../Imgs/header.jpeg"), url("../../Imgs/header2.jpeg");
-    background-size: 95% 25%, 97% 27%; 
-    background-position-x: center;
+    background: url("../../Imgs/header.jpeg");
+    background-size: 95% 25%; 
+    background-position: center top;
     background-repeat: no-repeat;
     width: auto;
-    
 }
 img{
     border: 5px solid #555;

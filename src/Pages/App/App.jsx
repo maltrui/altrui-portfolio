@@ -27,7 +27,7 @@ function App() {
 {
   name: 'Online-Shopping Application',
   about: 'MERN-stack Application',
-  details: 'This app is a basic online shopping application. It has Sign-In, Product Display, and a shopping cart functionality. This uses a third party API in order to get a product list. A special challenge, and learning point, to this project was the security of 3rd party APIs. An unknown individual was able to change the categorie names into giberish and add new categories that did not exist the day before this project was due. This caused an issue with being able to display the product categories from the API, as the new categories were added and deleted. I was able to find a work around by manually getting the all of the caetgories from the existing products.',
+  details: 'This app is a basic online shopping application. It has Sign-In, Product Display, and a shopping cart functionality. This uses a third party API in order to get a product list. A special challenge, and learning point, to this project was the security of 3rd party APIs. An unknown individual was able to change the categories names into giberish and add new categories that did not exist the day before this project was due. This caused an issue with being able to display the product categories from the API, as the new categories were added and deleted. I was able to find a work around by manually getting the all of the categories from the existing products.',
   imgs: [proj3Products, proj3Cart],
   url: 'https://ancient-tundra-23286.herokuapp.com/',
   gitHub: 'https://github.com/maltrui/react-mern-stack'
@@ -43,7 +43,7 @@ function App() {
 {
   name: 'Finch Collector',
   about: 'Full-stack Django App',
-  details: 'This application is a baisc "thing" collector, which a Finch theme. The user has the abiity to input, edit, and delete FInch and Stick entries, along with being able to show which Finch owns a certain type of stick.',
+  details: 'This application allows the input of different Finches, Twigs, and information about the Finches. The user has the abiity to input, edit, and delete Finch and Stick entries, along with being able to show which Finch owns a certain type of stick.',
   imgs: [finchCollectorDetails, finchCollectorCreate],
   url: 'https://stormy-bayou-90809.herokuapp.com/',
   gitHub: 'https://github.com/maltrui/finchcollector'
