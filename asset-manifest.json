@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/altrui-portfolio/static/css/main.492e84a4.css",
+    "main.js": "/altrui-portfolio/static/js/main.3c19d341.js",
+    "static/media/Project3Products.png": "/altrui-portfolio/static/media/Project3Products.2e494a91fef3ac9808dd.png",
+    "static/media/Project2Posts.png": "/altrui-portfolio/static/media/Project2Posts.38fae848664d6fb1a39f.png",
+    "static/media/MCAHeadshot.png": "/altrui-portfolio/static/media/MCAHeadshot.00eb97b4ff1ad4992f66.png",
+    "static/media/Project2HomePage.png": "/altrui-portfolio/static/media/Project2HomePage.378a7ac21431781d02e2.png",
+    "static/media/FinchCollectorDetails.png": "/altrui-portfolio/static/media/FinchCollectorDetails.27333b3592488b3f93be.png",
+    "static/media/header.jpeg": "/altrui-portfolio/static/media/header.6bebb5c31d0b8d109d49.jpeg",
+    "static/media/FinchCollectorCreate.png": "/altrui-portfolio/static/media/FinchCollectorCreate.b193215055e96532b2ed.png",
+    "static/media/Project1Application.png": "/altrui-portfolio/static/media/Project1Application.1420ac5e93f2a0203f31.png",
+    "static/media/Project3Cart.png": "/altrui-portfolio/static/media/Project3Cart.690b2aa57394b3ebf0ba.png",
+    "index.html": "/altrui-portfolio/index.html",
+    "main.492e84a4.css.map": "/altrui-portfolio/static/css/main.492e84a4.css.map",
+    "main.3c19d341.js.map": "/altrui-portfolio/static/js/main.3c19d341.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492e84a4.css",
+    "static/js/main.3c19d341.js"
+  ]
+}
